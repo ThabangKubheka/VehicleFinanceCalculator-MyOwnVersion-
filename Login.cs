@@ -47,7 +47,7 @@ namespace VehicleFinanceCalculator
 
                         if (userCount > 0)
                         {
-                            
+
                             MessageBox.Show("Login successful.");
                             Form1 form = new();
                             this.Hide();
